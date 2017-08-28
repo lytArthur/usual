@@ -98,3 +98,7 @@ function isValidDecimal(chars) {
         return true;
     }
 }
+
+/**
+ * 以上代码更新于2017年8月28日
+ */
